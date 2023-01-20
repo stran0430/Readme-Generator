@@ -1,17 +1,17 @@
 
-# sad 
+# Test Page 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-dsa
+generating a readme file
 
 ---
 
 
-[A deployed version can be viewed here.](das)
+[A deployed version can be viewed here.]()
 
 ## Screenshot
-![alt-text](dsa)
+![alt-text]()
 
 ## Table of Contents
 
@@ -25,18 +25,18 @@ dsa
 
 
 ## Usage
-dsa
+Node, Inquirer, JSON
 
 ---
 
 
 ## Installation
-dsa
+
 
 <br>
   To clone the repo:
 
-     git clone das
+     git clone [git@github.com:stran0430/Readme-Generator.git]
 
 
     
@@ -48,16 +48,16 @@ dsa
 ---
 
 ## Contributors
-asd
+
 
 ---
 
 
 ## Tests
-asd
+
 
 ---
 ## Contact Information
 
-* GitHub Username: das
-* GitHub Email: das
+* GitHub Username: stran0430
+* GitHub Email: stran0430@gmail.com

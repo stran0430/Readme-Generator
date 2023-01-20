@@ -46,13 +46,13 @@ const questions = [
   },
   {
     type: "input",
-    message: "What is the link to clone the repo?",
     name: "clone",
+    message: "What is the link to clone the repo?",
   },
   {
     type: "input",
     name: "creator",
-    message: "What is your GitHub username.",
+    message: "What is your GitHub username?",
   },
   {
     type: "input",
@@ -81,7 +81,7 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then((responses) => {
     console.log("Creating Professional README.md File...");
-    writeToFile("./dist/created-README.md", generateMarkdown({ ...responses }));
+    writeToFile("/dist/created-README.md", generateMarkdown({ ...responses }));
   });
 }
 init();

@@ -46,7 +46,7 @@ ${data.installation}
 <br>
   To clone the repo:
 
-     git clone ${data.clone}
+     git clone [${data.clone}]
 
 
     

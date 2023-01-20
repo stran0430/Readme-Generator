@@ -1,9 +1,9 @@
 
-# Test Page 
+# test 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-generating a readme file
+generate readme file
 
 ---
 

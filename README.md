@@ -34,8 +34,14 @@ THEN I am taken to the corresponding section of the README
 
 ## Visuals
 
-![screenshot 1](assets/SC1.png)
-![screenshot 2](assets/generate%20SC.png)
+[readme-generator-walkthrough.webm](https://user-images.githubusercontent.com/115510413/213609144-9919423d-bbd7-403b-828f-3c22d5c6ac4c.webm)
+
+<img width="1024" alt="generate SC" src="https://user-images.githubusercontent.com/115510413/213609066-ade0e929-37ed-4eff-98f7-651f6a909f22.png">
+
+<img width="1016" alt="SC1" src="https://user-images.githubusercontent.com/115510413/213609107-d95b0a00-c749-4ed1-af7f-827e56ac6c2d.png">
+
+
+
 
 ---
 
